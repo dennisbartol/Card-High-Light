@@ -1,5 +1,5 @@
 # cardHighlight
-Move over one of the cards with your mouse, and watch the magic happening. 
+Move over one of the cards with your mouse, and watch the magic ! 
 
 Applies:
 -Jquery
