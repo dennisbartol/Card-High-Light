@@ -1,7 +1,7 @@
 # cardHighlight
 Move over one of the cards with your mouse, and watch the magic unfold! 
 
-Applies:<br />
+The code applies:<br />
 -Jquery<br />
 -mouseenter<br /> 
 -mouseout<br />
