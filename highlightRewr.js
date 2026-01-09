@@ -1,4 +1,4 @@
-document.AddEventListener() {
+document.addEventListener('DOMContentLoaded', () => {
 
 
-};
+});
