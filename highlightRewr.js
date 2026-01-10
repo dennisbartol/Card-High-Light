@@ -17,6 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const y = e.clientY - rect.top; 
 
       const span = this.querySelector('span'); 
+      span.style.left = `${x}px`; 
+      span.style.top = `${y}px`;
 
     }
 
