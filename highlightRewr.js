@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const x = e.clientX - rect.left; 
       const y = e.clientY - rect.top; 
 
+      const span = this.querySelector('span'); 
+
     }
 
 });
