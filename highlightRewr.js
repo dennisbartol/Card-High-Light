@@ -8,5 +8,10 @@ document.addEventListener('DOMContentLoaded', () => {
       card.addEventListener('mouseleave', handleMove);
     });
 
+  function handleMove(e) {
+    const rect = this.getBoundingClientRect();
+
+
+    }
 
 });
