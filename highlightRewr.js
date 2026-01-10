@@ -3,5 +3,10 @@
 document.addEventListener('DOMContentLoaded', () => {
   const card = document.querySelectorAll(.card); 
 
+  card.forEach.card(card => {
+  	  card.addEventListener('mouseenter', handleMove);
+      card.addEventListener('mouseleave', handleMove);
+    });
+
 
 });
