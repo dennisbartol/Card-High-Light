@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function handleMove(e) {
     const rect = this.getBoundingClientRect();
+    // The getBoundingClientRect() method returns the size of an element and its position relative to the viewport.
+    // The getBoundingClientRect() method also returns a DOMRect object with eight properties: left, top, right, bottom, x, y, width, height.
 
 
     }
