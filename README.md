@@ -6,3 +6,6 @@ The code applies:<br />
 -mouseenter<br /> 
 -mouseout<br />
 -.offset x & y coordinates<br />
+
+Update January 2026:<br />
+Removing jQuery, updating the code, and future-proofing it.
